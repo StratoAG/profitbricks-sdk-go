@@ -42,6 +42,7 @@ func Test_WaitTillRequests(t *testing.T) {
 }
 
 func loadTestData(t *testing.T, filename string) []byte {
+	t.Helper()
 	data, err := ioutil.ReadFile(filepath.Join(requestTestDataPath, filename))
 	assert.NoError(t, err)
 	return data

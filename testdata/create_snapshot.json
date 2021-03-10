@@ -1,0 +1,33 @@
+{
+  "id" : "9676a76c-e2a0-4365-af4d-8ab3fa8bf997",
+  "type" : "snapshot",
+  "href" : "https://api.ionos.com/cloudapi/v5/snapshots/9676a76c-e2a0-4365-af4d-8ab3fa8bf997",
+  "metadata" : {
+    "etag" : "f896085e037caf67e78e0d67f96c749e",
+    "createdDate" : "2021-03-10T19:54:39Z",
+    "createdBy" : "[user]",
+    "createdByUserId" : "[userId]",
+    "lastModifiedDate" : "2021-03-10T19:54:39Z",
+    "lastModifiedBy" : "[user]",
+    "lastModifiedByUserId" : "[userId]",
+    "state" : "BUSY"
+  },
+  "properties" : {
+    "name" : "TestSnapshot01",
+    "description" : "Created from \"test-volume\" in Data Center \"test\"",
+    "location" : "de/txl",
+    "size" : 0.00,
+    "secAuthProtection" : false,
+    "cpuHotPlug" : false,
+    "cpuHotUnplug" : false,
+    "ramHotPlug" : false,
+    "ramHotUnplug" : false,
+    "nicHotPlug" : false,
+    "nicHotUnplug" : false,
+    "discVirtioHotPlug" : false,
+    "discVirtioHotUnplug" : false,
+    "discScsiHotPlug" : false,
+    "discScsiHotUnplug" : false,
+    "licenceType" : "LINUX"
+  }
+}

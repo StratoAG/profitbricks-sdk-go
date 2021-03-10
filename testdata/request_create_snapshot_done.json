@@ -1,0 +1,11 @@
+{
+  "id" : "eb699a83-5826-433b-a280-b6f931679334/status",
+  "type" : "request-status",
+  "href" : "https://api.ionos.com/cloudapi/v5/requests/eb699a83-5826-433b-a280-b6f931679334/status",
+  "metadata" : {
+    "status" : "DONE",
+    "message" : "Request has been successfully executed",
+    "etag" : "2ba22e58ca17bb728d522bba36cf8350",
+    "targets" : [ ]
+  }
+}
